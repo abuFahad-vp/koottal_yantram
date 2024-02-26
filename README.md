@@ -1,6 +1,11 @@
 # koottal_yantram 
 Calculator Interpreter in Java
 
+## Building & Running:
+``./build.sh
+java Main
+``
+
 ## Todo:
 - ~~Lexing~~
 - Evaluating the expression
