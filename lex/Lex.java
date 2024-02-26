@@ -6,12 +6,6 @@ import java.util.Stack;
 import java.util.Arrays;
 import java.util.List;
 
-/*
- * numbers only
- * words only
- * symbols only
- */
-
 public class Lex {
 
   static String[] allowed_tokens = {"+","-","*","/",")","("};
