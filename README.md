@@ -1,12 +1,10 @@
 # koottal_yantram 
 Calculator Interpreter in Java
 
-## Building & Running:
-``./build.sh
-java Main
-``
+### building & running:
+``./build.sh && java Main``
 
-## Todo:
+### Todo:
 - ~~Lexing~~
 - Evaluating the expression
 - ~~Event Loop~~
